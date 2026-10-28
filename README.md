@@ -20,7 +20,7 @@
 ```json
 {
   "extraKnownMarketplaces": {
-    "toptech": { "source": { "source": "github", "repo": "ibrav6/toptech-guards" } }
+    "toptech": { "source": { "source": "github", "repo": "tt9-sa/toptech-guards" } }
   },
   "enabledPlugins": { "toptech-guards@toptech": true }
 }

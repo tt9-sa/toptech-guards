@@ -6,7 +6,7 @@
 [`docs/DEV_ENVIRONMENT.md`](../../docs/DEV_ENVIRONMENT.md).
 
 ```bash
-claude plugin marketplace add ibrav6/toptech-guards --scope project
+claude plugin marketplace add tt9-sa/toptech-guards --scope project
 claude plugin install toptech-guards@toptech
 python3 test_guards.py        # يطبع عدد ما مُنع وما مرّ — لا يُكتب هنا بيد
 ```
